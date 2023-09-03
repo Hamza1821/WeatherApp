@@ -1,5 +1,4 @@
-//d099c8c1d1b88813e128e238edc852e9
-//apicity   api.openweathermap.org/data/2.5/weather?q=lucknow&appid=d099c8c1d1b88813e128e238edc852e9
+
 import React from 'react'
 import './wheather.css'
 
